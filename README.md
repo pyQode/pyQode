@@ -11,7 +11,7 @@ Checkout the [wiki](https://github.com/pyQode/pyQode/wiki) for getting started.
 
 ## Other repositories
 
-pyqode is a [namespace package]() made up of many sub-projects. The main ones are:
+pyqode is a [namespace package](http://legacy.python.org/dev/peps/pep-0382/) made up of many sub-projects. The main ones are:
 
 ### pyqode.qt
 

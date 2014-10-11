@@ -1,12 +1,11 @@
-# Report bugs or ask a question
---------------------------------
+## Report bugs or ask a question
 
 You can report bugs, suggest new feature or simply ask a question on our 
 [centralised issue tracker](https://github.com/pyQode/pyQode/issues)
 
 
-Submitting pull requests:
--------------------------
+## Submitting pull requests:
+
 
 Know how to fix something? We love pull requests! Here's a quick guide:
 

@@ -1,5 +1,4 @@
-# pyQode
-
+![pyQode](https://raw.githubusercontent.com/pyQode/pyqode.core/develop/doc/source/_static/pyqode-banner.png)
 
 [pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide.
 

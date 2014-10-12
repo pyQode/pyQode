@@ -36,4 +36,4 @@ This package is required by all other packages.
 
 ### pyqode-uic
 
-[pyqode-uic]() is a tool that let you compile your qt designer ui script using the [pyqode.qt](https://github.com/pyQode/pyqode.qt) shim instead of PyQt4/PyQt5/PyQide.
+[pyqode-uic](https://github.com/pyQode/pyqode-uic) is a tool that let you compile your qt designer ui script using the [pyqode.qt](https://github.com/pyQode/pyqode.qt) shim instead of PyQt4/PyQt5/PyQide.

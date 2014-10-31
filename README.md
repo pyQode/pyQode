@@ -1,6 +1,6 @@
 ![pyQode](https://raw.githubusercontent.com/pyQode/pyqode.core/master/doc/source/_static/pyqode-banner.png)
 
-[pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide. You can see it as an alternative to QScintilla.
+[pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide. You can see it as an alternative to [QScintilla](http://www.riverbankcomputing.com/software/qscintilla/intro).
 
 This repository contains the [central issue tracker](https://github.com/pyQode/pyQode/issues) and the [wiki](https://github.com/pyQode/pyQode/wiki) for the pyQode project.
 

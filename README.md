@@ -1,12 +1,16 @@
 ![pyQode](https://raw.githubusercontent.com/pyQode/pyqode.core/master/doc/source/_static/pyqode-banner.png)
 
-[pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide.
+[pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide. You can see it as an alternative to QScintilla.
 
 This repository contains the [central issue tracker](https://github.com/pyQode/pyQode/issues) and the [wiki](https://github.com/pyQode/pyQode/wiki) for the pyQode project.
 
 ## Documentation
 
 Checkout the [wiki](https://github.com/pyQode/pyQode/wiki) for getting started.
+
+## License
+
+Most of the pyqode packages are licensed under the **MIT** license.
 
 ## Other repositories
 

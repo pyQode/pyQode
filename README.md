@@ -17,28 +17,27 @@ Most of the pyqode packages are licensed under the **MIT** license.
 
 pyqode is a [namespace package](http://legacy.python.org/dev/peps/pep-0382/) made up of many sub-projects. The main ones are:
 
-### pyqode.core
+### [pyqode.core](https://github.com/pyQode/pyqode.core): 
 
-[pyqode.core](https://github.com/pyQode/pyqode.core) holds the core API that provides a generic code editor and the framework needed to 
-add dedicated support for a language. This package is required by all other packages except [pyqode.qt](https://github.com/pyQode/pyqode.qt).
+This package holds the core API that provides a generic code editor and the framework needed to add dedicated support for a language. This package is required by all other packages except [pyqode.qt](https://github.com/pyQode/pyqode.qt).
 
-### pyqode.python
+### [pyqode.python](https://github.com/pyQode/pyqode.python)
 
-[pyqode.python](https://github.com/pyQode/pyqode.python) adds support for the python programming languages. 
+This package adds support for the python programming languages. 
 
-### pyqode.json
+### [pyqode.json](https://github.com/pyQode/pyqode.json)
 
-[pyqode.json](https://github.com/pyQode/pyqode.json) adds support for the json data format.
+This package adds support for the json data format.
 
-### pyqode.cobol
+### [pyqode.cobol](https://github.com/pyQode/pyqode.cobol)
 
-[pyqode.cobol](https://github.com/pyQode/pyqode.cobol) adds support for the COBOL programming language.
+This package adds support for the COBOL programming language.
 
-### pyqode.qt
+### [pyqode.qt](https://github.com/pyQode/pyqode.qt)
 
-[pyqode.qt](https://github.com/pyQode/pyqode.qt) provides an abstraction layer over the various Qt bindings. It supports PySide, PyQt4 and PyQt5.
+This package provides an abstraction layer over the various Qt bindings. It supports PySide, PyQt4 and PyQt5.
 This package is required by all other packages.
 
-### pyqode-uic
+### [pyqode-uic](https://github.com/pyQode/pyqode-uic)
 
-[pyqode-uic](https://github.com/pyQode/pyqode-uic) is a tool that let you compile your qt designer ui script using the [pyqode.qt](https://github.com/pyQode/pyqode.qt) shim instead of PyQt4/PyQt5/PyQide.
+A tool that let you compile your qt designer ui script using the [pyqode.qt](https://github.com/pyQode/pyqode.qt) shim instead of PyQt4/PyQt5/PyQide.

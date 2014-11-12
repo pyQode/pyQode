@@ -3,6 +3,8 @@
 You can report bugs, suggest new feature or simply ask a question on our 
 [centralised issue tracker](https://github.com/pyQode/pyQode/issues)
 
+You can also join us on irc at #pyqode
+
 
 ## Submitting pull requests:
 

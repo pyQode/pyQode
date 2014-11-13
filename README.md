@@ -1,4 +1,4 @@
-![pyQode](https://raw.githubusercontent.com/pyQode/pyqode.core/master/doc/source/_static/pyqode-banner.png)
+![pyQode](https://raw.githubusercontent.com/pyQode/pyQode/master/media/pyqode-banner.png)
 
 |
 

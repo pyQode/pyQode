@@ -15,7 +15,7 @@ Know how to fix something? We love pull requests! Here's a quick guide:
    open a fresh issue to start a discussion around a feature idea or a bug.
    Opening a separate issue to discuss the change is less important for smaller
    changes, as the discussion can be done in the pull request.
-2. Fork the relevant repository on [GitHub](https://github.com/pyQode), and start making your changes.
+2. Fork the relevant repository on [GitHub](https://github.com/pyQode), and start making your changes (you should base your work on the ``dev`` branch)
 3. Check out the README and the CONTRIBUTING for information specific to that repository.
 4. Push the change. we recommend using a separate branch for your feature.
 5. Open a pull request.

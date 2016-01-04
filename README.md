@@ -21,6 +21,11 @@ Most of the pyqode packages are licensed under the **MIT** license.
 
 pyqode is a [namespace package](http://legacy.python.org/dev/peps/pep-0382/) made up of many sub-projects. The main ones are:
 
+### [pyqode.qt](https://github.com/pyQode/pyqode.qt)
+
+This package provides an abstraction layer over the various Qt bindings. It supports PySide, PyQt4 and PyQt5.
+This package is required by all other packages.
+
 ### [pyqode.core](https://github.com/pyQode/pyqode.core)
 
 This package holds the core API that provides a generic code editor and the framework needed to add dedicated support for a language. This package is required by all other packages except [pyqode.qt](https://github.com/pyQode/pyqode.qt).
@@ -37,10 +42,10 @@ This package adds support for the json data format.
 
 This package adds support for the COBOL programming language.
 
-### [pyqode.qt](https://github.com/pyQode/pyqode.qt)
+### [pyqode.rst](https://github.com/pyQode/pyqode.rst)
 
-This package provides an abstraction layer over the various Qt bindings. It supports PySide, PyQt4 and PyQt5.
-This package is required by all other packages.
+This package adds support for reStructuredText.
+
 
 ### [pyqode-uic](https://github.com/pyQode/pyqode-uic)
 

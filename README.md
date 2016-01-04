@@ -32,11 +32,11 @@ This package holds the core API that provides a generic code editor and the fram
 
 ### [pyqode.python](https://github.com/pyQode/pyqode.python)
 
-This package adds support for the python programming languages. 
+This package adds support for the Python programming languages. 
 
 ### [pyqode.json](https://github.com/pyQode/pyqode.json)
 
-This package adds support for the json data format.
+This package adds support for the JSon data format.
 
 ### [pyqode.cobol](https://github.com/pyQode/pyqode.cobol)
 

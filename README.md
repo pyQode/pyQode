@@ -3,6 +3,7 @@
 |
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/pyQode/pyQode?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Supercharged by zenhub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.io)
 
 ## About
 [pyQode](https://github.com/pyQode) is a source code editor widget for PyQt/PySide. You can see it as an alternative to [QScintilla](http://www.riverbankcomputing.com/software/qscintilla/intro).
